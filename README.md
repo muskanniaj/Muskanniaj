@@ -34,7 +34,7 @@ I am  computer science student at vit bhopal university
 ---
 ## **GitHub Statistics**
 
-[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Souravdey777)](https://github.com/Souravdey777)
+
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=muskanniaj&&show_icons=true&theme=radical" alt="Muskan's Github Stats">
