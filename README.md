@@ -6,7 +6,7 @@ I am  computer science student at vit bhopal university
 🤓 I have a keen interest in 🤝 learning different language and appling them in different projects and a researcher on different topic of computer science and also exploring differnet branches of computer science 
 
 
- 🔭 I’m planning to start a project **🧐 Vision: AI and open cv. 
+ 🔭 I’m planning to start a project on🧐: AI and open cv. 
 
  
  👯 I’m looking to collaborate for different Hackathons 
