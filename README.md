@@ -37,9 +37,9 @@ I am  computer science student at vit bhopal university
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
 </p>
 
-<h4>Github Statistics </h4>
 
 
+### Github Statistics 
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=muskanniaj&show_icons=true&theme=vision-friendly-dark" alt= "muskan's github statistics">
