@@ -37,9 +37,9 @@ I am  computer science student at vit bhopal university
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskanniaj&show_icons=true&theme=radical" alt= "muskan's github statistics">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskanniaj&show_icons=true&theme=neon-dark" alt= "muskan's github statistics">
 </p>  
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanniaj&theme=neon-dark" alt= "muskan's github streak">
 
 ---
 
