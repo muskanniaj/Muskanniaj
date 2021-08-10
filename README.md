@@ -36,8 +36,8 @@ I am  computer science student at vit bhopal university
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
 </p>
----
-### GitHub Statistics
+
+<h4>Github Statistics </h4>
 
 
 
