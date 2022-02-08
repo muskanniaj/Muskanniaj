@@ -3,28 +3,33 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Experienced%20Event%20Manager%20;Competitive%20coder;Public%20speaker;Intrested%20in%20cyber%20security;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Experienced%20Event%20Manager%20;Competitive%20coder;Public%20speaker;Intrested%20in%20cyber%20security;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=14D40A&vCenter=true&size=22"></a>
 </p>
 </p>
 <hr/>
 
-I am  computer science student at vit bhopal university 
-
-
-🤓 I have a keen interest in 🤝 learning different language and appling them in different projects and a researcher on different topic of computer science and also exploring differnet branches of computer science 
-
-
- 🔭 I’m planning to start a project on🧐: AI and open cv. 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/muskan-jain-362aa8202/"><img alt="Linkedin" title="Muskan jain Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/__.muskan_jain.__/"><img alt="Instagram" title="Muskan jain Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:muskan.niaj@gmail.com"><img alt="Gmail" title="Muskan jain Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
- 👯 I’m looking to collaborate for different Hackathons 
+</p>
+<br/>
+<p align="center">
+I  student at vit bhopal university 
+I have a keen interest in learning different language and appling them in different projects , i am interested in competitive coding and cyber security 
+</p>
+<p align="center">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/muskanniaj?color=17C30E&labelColor=2E9F28&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
+ </p>
 
- 
-![Profile views](https://gpvc.arturio.dev/muskannaij)  <img src="https://img.shields.io/github/followers/muskanniaj?label=Follow" style=" float:left, margin-right:10px" />
+### Github Statistics 
 
-
----
-
+<p align="right">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskanniaj&show_icons=true&theme=chartreuse-dark" alt= "muskan's github statistics"
+<p align="left">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanniaj&theme=chartreuse-dark" alt= "muskan's github streak"/>
+</p>
 
 ### Tech & Tools Preference 🎓
 <p align="left">
@@ -47,21 +52,6 @@ I am  computer science student at vit bhopal university
 
 
 
-### Github Statistics 
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskanniaj&show_icons=true&theme=vision-friendly-dark" alt= "muskan's github statistics"/>
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanniaj&theme=vision-friendly-dark" alt= "muskan's github streak"/>
-</p>
 
 
 
-### You can find in me in the web 🌍
-
-
-
-[![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white&https://www.linkedin.com/in/muskan-jain-362aa8202/)](https://www.linkedin.com/in/muskan-jain-362aa8202/)
-[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/__.muskan_jain.__/)](https://www.instagram.com/__.muskan_jain.__/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muskan.niaj@gmail.com)](mailto:muskan.niaj@gmail.com)
