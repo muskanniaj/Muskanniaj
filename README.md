@@ -20,7 +20,7 @@ I  student at vit bhopal university
 I have a keen interest in learning different language and appling them in different projects , i am interested in competitive coding and cyber security 
 </p>
 <p align="center">
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/muskanniaj?color=ffdb71&labelColor=f5b900&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/muskanniaj?color=ff60bd&labelColor=c10071&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
  </p>
 
 ### Github Statistics 
