@@ -28,7 +28,7 @@ I have a keen interest in learning different language and appling them in differ
 <p align="right">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=muskanniaj&show_icons=true&theme=chartreuse-dark" alt= "muskan's github statistics"
 <p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanniaj&theme=chartreuse-dark" alt= "muskan's github streak"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanniaj&theme=chartreuse-dark" alt= "muskan's github streak"/>
 </p>
 
 
