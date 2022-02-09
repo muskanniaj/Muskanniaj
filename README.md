@@ -3,7 +3,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Experienced%20Event%20Manager%20;Competitive%20coder;Public%20speaker;Intrested%20in%20cyber%20security;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=14D40A&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Experienced%20Event%20Manager%20;Competitive%20coder;Public%20speaker;Intrested%20in%20cyber%20security;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=F2C414&vCenter=true&size=22"></a>
 </p>
 </p>
 <hr/>
@@ -20,37 +20,44 @@ I  student at vit bhopal university
 I have a keen interest in learning different language and appling them in different projects , i am interested in competitive coding and cyber security 
 </p>
 <p align="center">
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/muskanniaj?color=17C30E&labelColor=2E9F28&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/muskanniaj?color=ffdb71&labelColor=f5b900&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
  </p>
 
 ### Github Statistics 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskanniaj&show_icons=true&theme=chartreuse-dark" alt= "muskan's github statistics"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskanniaj&show_icons=true&theme=vision-friendly-dark" alt= "muskan's github statistics"> 
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanniaj&theme=chartreuse-dark" alt= "muskan's github streak"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanniaj&theme=vision-friendly-dark" alt= "muskan's github streak"/>
 </p>
 
+### My skill set 
+</br>
 
+![Python](https://img.shields.io/badge/Python-42d900?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/java-%237600ae.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-bc0000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![javscript](https://img.shields.io/badge/javascript-%23CC342D.svg?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![javscript](https://img.shields.io/badge/javascript-%23CC342D.svg?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%230C55A5.svg?style=for-the-badge&logo=css&logoColor=%white)
-![HTML](https://img.shields.io/badge/HTML-121011?style=for-the-badge&logo=html&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Adobe Photoshop Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![c++](https://img.shields.io/badge/C++-47A141?style=for-the-badge&logo=C++&logoColor=white)
+![Adobe Photoshop Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-df0083?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-
+ 
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+  
+   [![Muskan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muskanniaj&theme=redical&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   
+  <br/>
 
 
 
