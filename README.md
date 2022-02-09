@@ -48,7 +48,7 @@ I have a keen interest in learning different language and appling them in differ
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-00e1ce.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
 ![Adobe Photoshop Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-df0083?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
  
