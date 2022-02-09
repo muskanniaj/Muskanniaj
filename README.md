@@ -3,7 +3,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Experienced%20Event%20Manager%20;Competitive%20coder;Public%20speaker;Intrested%20in%20cyber%20security;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=F2C414&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Experienced%20Event%20Manager%20;Competitive%20coder;Public%20speaker;Intrested%20in%20cyber%20security;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ff0096&vCenter=true&size=22"></a>
 </p>
 </p>
 <hr/>
@@ -26,10 +26,10 @@ I have a keen interest in learning different language and appling them in differ
 ### Github Statistics 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskanniaj&show_icons=true&theme=vision-friendly-dark" alt= "muskan's github statistics"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskanniaj&show_icons=true&theme=radical" alt= "muskan's github statistics"> 
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanniaj&theme=vision-friendly-dark" alt= "muskan's github streak"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanniaj&theme=radical" alt= "muskan's github streak"/>
 </p>
 
 ### My skill set 
