@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muskan-jain-362aa8202/"><img alt="Linkedin" title="Muskan jain Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/__.muskan_jain.__/"><img alt="Instagram" title="Muskan jain Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/__.muskan_jain.__/"><img alt="Instagram" title="Muskan jain Instagram" src="https://img.shields.io/badge/Instagram-60c200?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:muskan.niaj@gmail.com"><img alt="Gmail" title="Muskan jain Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
 </p>
